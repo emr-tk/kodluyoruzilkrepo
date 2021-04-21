@@ -4,16 +4,17 @@ Bu repo [Kodluyoruz] (https://www.kodluyoruz.org/) Front-End Eğitiminde oluştu
 # Installation
 öncelikle projeyi clonelayın.
 
-'''print(git clone https://github.com/emr-tk/kodluyoruzilkrepo.git)
-'''
+```
+print (git clone https://github.com/emr-tk/kodluyoruzilkrepo.git)
+```
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Cod programınızda açın
 Linux için:
-'''print(
+```print(
 cm kodluyoruzilkrepo
 code.)
-'''
+```
 # Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
